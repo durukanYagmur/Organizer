@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VeryFirstApp"
         tools:targetApi="31">
+        <activity android:name=".HomeMate"></activity>
+        <activity android:name=".Job"></activity>
+        <activity android:name=".Party"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
